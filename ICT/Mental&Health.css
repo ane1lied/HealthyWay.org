@@ -1,0 +1,103 @@
+.header{
+    height: 6.5rem;
+    background: unset;
+    backdrop-filter: unset;
+    border-bottom: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    
+    
+}
+.HealthyEating{
+    color: #006400;
+    text-align: center;
+    margin-bottom: -0.5rem;
+    
+}
+.block1{ 
+    text-align: center; 
+    background-color: #006400; 
+    height: 40px; 
+    width: 100%;
+    padding-top: 5px;
+    
+} 
+li a { 
+    display: inline-block; 
+    padding: 15px; 
+    color: #D5B60A; 
+    text-decoration:none ;
+}
+li a:hover { 
+    background-color:rgb(14, 13, 13); 
+    height: 10px; 
+} 
+li{ 
+    margin-top: -35px;
+    display: inline-block; 
+    color: #D5B60A; 
+    word-spacing: 25px;
+    font-size: 18px;
+}
+.hr{
+    border: 3px solid #006400;
+    border-radius: 3px;
+    width: 30%;
+    margin-bottom: -0.5rem;
+    margin-top: -0.2rem;
+    position:relative;
+    padding-left: 450px;
+    padding-right: 450px;
+}
+main{
+    background-color: #fbf7f0;
+    max-height: 100%;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: -5px;
+    padding-top: 45px;
+    padding-bottom: 75px;
+}
+main{
+    
+    padding-top: 60px;
+    padding-bottom: 80px;
+    
+}
+.infoBox{
+    width: 940px;
+margin: 40px auto;
+padding: 25px 30px 30px;
+background: #1d2e28;
+color: #fbf7f0;
+border-radius: 25px;
+}
+.infoBox a:hover{
+    color: #888;
+}
+.floatRightImg{
+    margin: 0 0 10px 20px;
+    margin-top: 0px;
+padding: 5px;
+border: 1px solid #CCC;
+float: right;
+}
+small{
+    font-size: .8em;
+}
+.infoBox p{
+    width: 500px;
+}
+#top{
+    margin-top: 70px;
+    margin-bottom: 150px;
+    font-size: 60px;
+    color: #006400;
+    text-align: center;
+    font-style: italic ;
+    word-spacing: 20px;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px #888;
+}

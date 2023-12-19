@@ -1,0 +1,75 @@
+
+.header{
+    height: 6.5rem;
+    background: unset;
+    backdrop-filter: unset;
+    border-bottom: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    
+    
+}
+.HealthyEating{
+    color: #006400;
+    text-align: center;
+    margin-bottom: -0.5rem;
+    
+}
+.block1{ 
+    text-align: center; 
+    background-color: #006400; 
+    height: 40px; 
+    width: 100%;
+    padding-top: 5px;
+
+} 
+li a { 
+    display: inline-block; 
+    padding: 15px; 
+    color: #D5B60A; 
+    text-decoration:none ; 
+}
+li a:hover { 
+    background-color: lightgray; 
+    height: 10px; 
+} 
+li{ 
+    margin-top: -35px;
+    display: inline-block; 
+    color: #D5B60A; 
+    word-spacing: 25px;
+    font-size: 18px;
+}
+
+main{
+    background-color: #fbf7f0;
+    max-height: 100%;
+    width: 100%;
+    margin-top: -6px ;
+    padding: 0 1.6rem;
+}
+.aboutus{
+    padding: 4rem 0;
+    
+ 
+
+}
+.title{
+    margin-top: 30px;
+    font-size: 3rem;
+    color: #006400;
+    margin-bottom: 50px;
+    margin-left: 285px;
+    
+}
+.title-text{
+    font-size: 1.2rem;
+    color:#006400;
+    width: 700px;
+    margin-left: 270px;
+    font-style: italic;
+}
+.video{
+    text-align: center;
+}

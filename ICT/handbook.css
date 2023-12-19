@@ -1,0 +1,151 @@
+.header{
+    height: 6.5rem;
+    background: unset;
+    backdrop-filter: unset;
+    border-bottom: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    
+    
+}
+.HealthyEating{
+    color: #006400;
+    text-align: center;
+    margin-bottom: -0.5rem;
+    
+}
+
+
+.block1{ 
+    text-align: center; 
+    background-color: #006400; 
+    height: 40px; 
+    width: 100%;
+    padding-top: 5px;
+    
+} 
+li a { 
+    display: inline-block; 
+    padding: 15px; 
+    color: #D5B60A; 
+    text-decoration:none ; 
+}
+li a:hover { 
+    background-color: lightgray; 
+    height: 10px; 
+} 
+li{ 
+    margin-top: -35px;
+    display: inline-block; 
+    color: #D5B60A; 
+    word-spacing: 25px;
+    font-size: 18px;
+}
+main{
+    background-color: #fbf7f0;
+    max-height: 100%;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.button{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 100px;
+    background-color: #006400;
+    border-radius: 5px;
+}
+.back{
+    text-decoration: none;
+   color: #fbf7f0;
+}
+#title{
+    font-size: 2.5rem;
+    color: #006400;
+    margin-left: 50px;
+    padding-top: 50px;
+    margin-right: 5px;
+}
+#text1{
+    font-size: 1.3rem;
+    color: grey;
+    margin-left: 50px;
+    position: relative;
+    margin-right: -200px;
+}
+.section-title{
+    padding-top: 50px;
+    width: 800px;
+    display: flex;
+    align-items: end;
+    
+}
+#aging-photo{
+    border-radius: 1000px;
+    width: 700px;
+    align-items: center;
+    float: right;
+    margin-left: 300px;
+}
+#hr{
+    margin-top: 50px;
+    margin-bottom: -10px;
+    border: 5px solid #006400;
+}
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(101, 158, 107, 0.4); 
+  }
+.modal-button{
+    margin-left: 50px;
+    color: #D5B60A;
+    width: 150px;
+    background-color: #006400;
+    border-radius: 10px;
+    font-size: 15px;
+}
+  .modal-content {
+    margin: 15% auto; 
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; 
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(3px); 
+    
+  }
+  
+  .close {
+    color: #006400;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: rgb(244, 23, 23);
+    text-decoration: none;
+    cursor: pointer;
+  }
+#title2{
+    font-size: 2rem;
+    color: #006400;
+    margin-left: 50px;
+    
+    margin-right: 5px;
+   
+}
+.bbb{
+    display: flex;
+    margin-top: 50px;
+}

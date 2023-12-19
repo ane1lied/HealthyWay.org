@@ -1,0 +1,111 @@
+.header{
+    height: 6.5rem;
+    background: unset;
+    backdrop-filter: unset;
+    border-bottom: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    
+    
+}
+.HealthyEating{
+    color: #006400;
+    text-align: center;
+    margin-bottom: -0.5rem;
+    
+}
+.block1{ 
+    text-align: center; 
+    background-color: #006400; 
+    height: 40px; 
+    width: 100%;
+    padding-top: 5px;
+} 
+li a { 
+    display: inline-block; 
+    padding: 15px; 
+    color: #D5B60A; 
+    text-decoration:none ;
+}
+li a:hover { 
+    background-color:rgb(14, 13, 13); 
+    height: 10px; 
+} 
+#li{ 
+    margin-top: -35px;
+    display: inline-block; 
+    color: #D5B60A; 
+    word-spacing: 25px;
+    font-size: 18px;
+}
+
+main{
+    background-color: #fbf7f0;
+    max-height: 100%;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: -15px;
+}
+
+.charity-photo{
+   margin-top: 10px;
+   padding-top: 50px;
+   
+}
+#photo{
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.title{
+    float:right;
+    width:700px;
+    margin-top: -15rem;
+    margin-right: 50px;
+
+}
+#tit{
+    font-size: 45px;
+    color: #006400;
+}
+#text-title{
+    font-size: 20px;
+    color: grey;
+}
+.form{
+    
+    width: 500px;
+    border-color: #006400;
+    text-align: center;
+    font-size: 20px;
+    color: #006400;
+    margin-left: 225px;
+    margin-top: 20px;
+}
+#hr{
+    margin-top: 150px;
+    width: 800px;
+}
+.video{
+   margin-left: 225px;
+    margin-top: -10px;
+}
+h4{
+    margin-top: 30px;
+    margin-left:225px;
+    font-size: 20px;
+    color: #006400;
+}
+#hr2{
+    width: 800px;
+    margin-top: 40px;
+}
+.p1{
+    margin-top: 50px;
+    font-size: 17px;
+    color: rgb(83, 82, 82);
+    width:800px;
+    margin-left: 225px;
+}

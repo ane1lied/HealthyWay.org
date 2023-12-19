@@ -1,0 +1,123 @@
+.header{
+    height: 6.5rem;
+    background: unset;
+    backdrop-filter: unset;
+    border-bottom: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    
+    
+}
+.HealthyEating{
+    color: #006400;
+    text-align: center;
+    margin-bottom: -0.5rem;
+    
+}
+.block1{ 
+    text-align: center; 
+    background-color: #006400; 
+    height: 40px; 
+    width: 100%;
+    padding-top: 5px;
+} 
+li a { 
+    display: inline-block; 
+    padding: 15px; 
+    color: #D5B60A; 
+    text-decoration:none ;
+}
+li a:hover { 
+    background-color:rgb(14, 13, 13); 
+    height: 10px; 
+} 
+li{ 
+    margin-top: -35px;
+    display: inline-block; 
+    
+    word-spacing: 25px;
+    font-size: 18px;
+}
+main{
+    background-color: #fbf7f0;
+    max-height: 100%;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: -6px;
+}
+.title{
+    color: #006400;
+    font-size: 50px;
+    font-style: oblique;
+}
+.p1{
+    padding-top: 40px;
+    padding-left: 50px;
+   color: grey;
+   font-size: 20px; 
+}
+.text{
+    width: 640px;
+}
+#photo{
+    padding-left: 50px;
+
+}
+.p2{
+    padding-left: 50px;
+    margin-top: 50px;
+    color: grey;
+   font-size: 20px; 
+}
+#title2{
+    color: #006400;
+    font-size: 25px;
+    font-style: oblique;
+}
+#list{
+   line-height: 50px;
+}
+hr#hr{
+    margin-top: -10px;
+    border-top: 5px dotted grey;
+    width: 900px;
+    margin-left: 0px;
+}
+#title3{
+    color: #006400;
+    font-size: 25px;
+    font-style: oblique;
+    
+}
+.p3{
+    padding-left: 50px;
+}
+#header{
+    font-style: bold;
+}
+.table{
+    border-bottom: 1px solid #ddd;
+    border-collapse: collapse;
+    width: 900px;
+}
+th,td{
+    padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+td{
+    color: #006400;
+
+}
+th{
+    color: black;
+    font-size: 17px;
+    text-align: center
+    
+}
+#tips{
+    color: black;
+
+}

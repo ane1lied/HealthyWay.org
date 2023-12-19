@@ -1,0 +1,117 @@
+.header{
+    height: 6.5rem;
+    background: unset;
+    backdrop-filter: unset;
+    border-bottom: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    
+    
+}
+.HealthyEating{
+    color: #006400;
+    text-align: center;
+    margin-bottom: -0.5rem;
+    
+}
+
+
+.block1{ 
+    text-align: center; 
+    background-color: #006400; 
+    height: 40px; 
+    width: 100%;
+    padding-top: 5px;
+
+} 
+li a { 
+    display: inline-block; 
+    padding: 15px; 
+    color: #D5B60A; 
+    text-decoration:none ; 
+}
+li a:hover { 
+    background-color: lightgray; 
+    height: 10px; 
+} 
+li{ 
+    margin-top: -35px;
+    display: inline-block; 
+    color: #D5B60A; 
+    word-spacing: 25px;
+    font-size: 18px;
+}
+header{
+    background-color: #fbf7f0;
+    max-height: 100%;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: -5px;
+    padding-top: 2px;
+}
+#title{
+    font-size: 2.5rem;
+    color: #006400;
+    margin-left: 50px;
+    padding-top: 50px;
+    margin-right: 5px;
+}
+#text1{
+    font-size: 1.3rem;
+    color: grey;
+    margin-left: 50px;
+    position: relative;
+    margin-right: -200px;
+}
+.section-title{
+    padding-top: 50px;
+    width: 800px;
+    display: flex;
+    align-items: end;
+    
+}
+#aging-photo{
+    border-radius: 50%;
+    width: 700px;
+    align-items: center;
+    float: right;
+    margin-left: 300px;
+}
+
+.dropbtn {
+    background-color: #006400;
+    color: #D5B60A;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    margin-left: 50px;
+
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}
